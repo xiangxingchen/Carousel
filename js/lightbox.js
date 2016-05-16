@@ -15,8 +15,8 @@
 		this.setting = {
 			"width": 1000, //幻灯片高度
 			"height": 270, //幻灯片宽度
-			"posterWidth": 640, //幻灯片第一帧高度
-			"posterHeight": 270,
+			"posterWidth": 640, //幻灯片第一帧宽度
+			"posterHeight": 270,//幻灯片第一帧高度
 			"verticalAlign": "middle",
 			"speed": 500,
 			"autoPlay":true,
